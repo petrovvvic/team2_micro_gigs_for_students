@@ -1,10 +1,9 @@
 # High-level Überblick
-[Landing] -> [Rechner] <-> [Angebotsvergleich]
-                              |
-                        [Meine Daten]
-                        [Wiki] (jederzeit erreichbar)
+[Landing] -> [Rechner] <-> [Angebotsvergleich] <-> [Wiki](jederzeit erreichbar) <-> [Meine Daten] 
+
 
 # Seitenbeschreibungen
+Wireframes finden Sie im Unterordner "wireframes_imgs"
 
 **Landing:**
 Headline, kurze Erklärung, CTA-Button → Rechner
