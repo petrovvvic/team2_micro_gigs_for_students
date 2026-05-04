@@ -3,7 +3,7 @@
 
 
 # Seitenbeschreibungen
-Wireframes finden Sie im Unterordner "wireframes_imgs"
+Wireframes finden Sie im Unterordner "wireframes_imgs" gespeichert als PDF Deck
 
 **Landing:**
 Headline, kurze Erklärung, CTA-Button → Rechner
