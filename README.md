@@ -7,7 +7,7 @@ Team: Andrei Piatrouski, Nikita Pasichnyk, Aya Madarati
 | Student | Personal Goals | Target Grade |
 |---------|---------------|--------------|
 |Andrei   | Besseres Verständnis von Full Stack Architekturen bzw. Technologien und Verfeinerung der Project Management Skills | 1,0 |
-|Nikita   | Verbesserung der Python Skills + Erfahrung bei der Entwicklung eines Web Apps sammeln | 1,0 |
+|Nikita   | Verbesserung der eigenen Python-Skills sowie das Erstellen einer robusten und voll funktionsfähigen Web-Applikation  | 1,0 |
 |Aya      | Verbesserung der Python Skills + Projekt Management Skills | 1,0 |
 
 # Repo Structure
