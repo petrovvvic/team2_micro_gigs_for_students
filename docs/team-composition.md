@@ -1,6 +1,3 @@
-# team2_thesis_match
-Dieses App verbindet Studierende und Dozenten, damit die besten Bachelorarbeiten geschrieben werden. Entwickelt von **Team 2.**
-
 # Team Composition
 Team: Andrei Piatrouski, Nikita Pasichnyk, Aya Madarati, Abdulhamid Suliman
 
