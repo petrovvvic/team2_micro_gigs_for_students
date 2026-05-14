@@ -1,8 +1,8 @@
-# team2_micro_gigs
-Dieses App verbindet Studierende, die kleine Dienstleistungen anbieten möchten (Freelancer), mit anderen, die schnelle Hilfe suchen (Auftraggeber) — einfach, schnell und campusnah. Entwickelt von **Team 2.**
+# team2_thesis_match
+Dieses App verbindet Studierende und Dozenten, damit die besten Bachelorarbeiten geschrieben werden. Entwickelt von **Team 2.**
 
 # Team Composition
-Team: Andrei Piatrouski, Nikita Pasichnyk, Aya Madarati
+Team: Andrei Piatrouski, Nikita Pasichnyk, Aya Madarati, Abdulhamid Suliman
 
 | Student | Personal Goals | Target Grade |
 |---------|---------------|--------------|
