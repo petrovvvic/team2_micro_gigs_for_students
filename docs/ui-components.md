@@ -1,76 +1,60 @@
 ---
-title: UI Components
-nav_exclude: false
-nav_order: 99
+title: Target Scope & UI Screens
+nav_order: 3
 ---
 
-{: .label .label-red }
-[to be deleted]
+# Target Scope & UI Screens
 
-{: .attention }
-> Once you are familiar with the available UI components of this template, exclude this page by changing `nav_order: 99` to `nav_exclude: true` on top of this page (line 3). Its *front matter* will then look like this:
-> ```
-> ---
-> title: UI Components
-> nav_exclude: true
-> nav_order: 99
-> ---
-> ```
+---
 
-# UI Components
+## Screen 1 — Professor-Feed
 
-The [Just the Docs documentation](https://just-the-docs.github.io/just-the-docs/docs/ui-components) details all available UI components.
+Durchsuchbare Übersicht aller Professoren der HWR die aktiv 
+Betreuungsplätze anbieten. Filterbar nach Fachbereich. 
+Jede Karte zeigt Name, Fachbereich, freie Plätze und Bewertung.
 
-A few components you might find useful:
+![Screen 1 - Professor-Feed](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201412.png)
+## Screen 2 — Profil-Detailseite
 
-## Labels
+Jeder Professor hat eine eigene Seite mit Themenfeldern, 
+Anforderungen, verfügbaren Plätzen und Bewertungen. 
+Direkte Möglichkeit eine Anfrage zu stellen.
 
-{: .label }
-[Default label]
+![Screen 2 - Profil-Detailseite](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201428.png)
+---
 
-{: .label .label-green }
-[Green label]
+## Screen 3 — Anfrage-Flow
 
-{: .label .label-red }
-[Red label]
+Studierende füllen ein strukturiertes Formular aus mit Thema, 
+Typ, Zeitraum und Kurzbeschreibung. Nach Absenden erscheint 
+eine Bestätigung.
 
-## Images
+![Screen 3 - Anfrage-Flow](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201446.png)
 
-```markdown
-![get_list_todos_sample](assets/images/fswd-intro_00.png)
-```
+---
 
-![get_list_todos_sample](assets/images/fswd-intro_00.png)
+## Screen 4 — Betreuer-Dashboard
 
+Professoren sehen alle eingegangenen Anfragen mit Statistik. 
+Jede Anfrage kann direkt angenommen oder abgelehnt werden.
 
-# Custom UI Components
+![Screen 4 - Betreuer-Dashboard](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201507.png)
 
-The following customized components have been defined in file `📄_config.yml`.
+---
 
+## Screen 5 — Profil erstellen
 
-## Callouts
+Einfacher Onboarding-Flow für Professoren. Themenfelder, 
+Anforderungen, Plätze und Zeitraum in wenigen Schritten eintragen.
 
-{: .info }
-> This is an info callout.
+![Screen 5 - Profil erstellen](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201527.png)
 
-{: .tip }
-> This is a tip callout.
+---
 
-{: .attention }
-> This is an attention callout.
+## Screen 6 — Top-Betreuer Rangliste
 
-{: .download }
-> This is a download callout.
+API-gestützte Rangliste der meistgefragten Professoren 
+nach Anfragevolumen und Bewertung. Daten kommen live 
+über GET /api/betreuer/top.
 
-## Mermaid.js
-
-```mermaid
-%%{init: {
-  "theme": "neutral"
-}}%%
-graph TD;
-    A-->B;
-    A-->C;
-```
-
-Visit the [Mermaid docs](https://mermaid.js.org/intro/) for a thorough description of the charting possibilities.
+![Screen 6 - Rangliste](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201545.png)
