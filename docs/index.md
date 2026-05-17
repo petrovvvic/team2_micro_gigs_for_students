@@ -3,7 +3,7 @@ title: Home
 nav_order: 0
 ---
 
-# [Thesis Match]
+# Thesis Match
 
 
 Dieser App verbindet Studenten und Dozente, um einen schnellen Match für eine Bachelorarbeit zu ermöglichen
