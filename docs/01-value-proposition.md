@@ -15,30 +15,33 @@ nav_order: 1
 
 ## The Problem
 
-Studis an der HWR die eine Bachelor- oder Masterarbeit schreiben wollen, haben keinen strukturierten Weg einen passenden Betreuer zu finden. Professoren-Profile, Forschungsinteressen und verfügbare Betreuungsplätze sind verstreut oder gar nicht öffentlich. Das Ergebnis: Studis schreiben kalte E-Mails ins Blaue, warten wochenlang auf Antworten, und landen oft bei einem Prof der thematisch gar nicht passt.
-
-- Sie wissen nicht, welche Professoren überhaupt Betreuungen anbieten — es gibt keinen zentralen Überblick.
-- Selbst wenn sie einen Namen kennen, wissen sie nicht ob das Thema wirklich passt — Forschungsinteressen und Anforderungen sind kaum öffentlich. 
-- Es gibt keinen definierten Weg eine Anfrage zu stellen — Studis schreiben kalte E-Mails ins Blaue und warten wochenlang. 
-- Professoren haben keinerseits einen Überblick über eingehende Anfragen und können ihr Angebot nicht sichtbar machen.
+An der HWR gibt es keinen zentralen Weg für Studierende, einen passenden Betreuer für ihre Abschlussarbeit zu finden. Welcher Professor welche Themen betreut, wie seine Anforderungen aussehen und ob überhaupt noch Betreuungsplätze frei sind — all das ist nicht öffentlich zugänglich. Studierende sind gezwungen, Professoren einzeln per E-Mail zu kontaktieren, ohne zu wissen ob das Thema passt oder ob Kapazität vorhanden ist. Das führt zu langen Wartezeiten, mehrfachen Absagen und im schlimmsten Fall zu einer Betreuung die thematisch nicht optimal ist.
+Professoren stehen vor dem umgekehrten Problem: Betreuungsanfragen kommen ungefiltert per E-Mail, ohne einheitliche Struktur und ohne Vorabinformationen zum geplanten Thema. Es gibt keinen Weg, das eigene Betreuungsangebot sichtbar zu machen oder eingehende Anfragen übersichtlich zu verwalten.
 
 
 ## Our Solution
 
 Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Themenfelder, verfügbare Plätze, Anforderungen), und Studis gezielt nach passendem Betreuer suchen und anfragen können.
-- Kein Überblick wer Betreuungen anbietet = **Professor-Feed** — eine durchsuchbare Übersichtsseite aller Professoren, die aktiv Betreuungsplätze anbieten, filterbar nach Fachbereich und Themenfeld
-- Unklare Passung zwischen Thema und Betreuer = **Profil-Detailseite** — jeder Professor hat eine Profilseite mit Forschungsinteressen, Anforderungen an die Arbeit und aktuell verfügbaren Plätzen
-- Kein strukturierter Weg eine Anfrage zu stellen = **Anfrage-Flow** — Studis können direkt über die Plattform eine strukturierte Betreuungsanfrage mit Thema, Zeitplan und Kurzbeschreibung absenden
-- Professoren haben keinen Überblick über eingehende Anfragen = **Betreuer-Dashboard** — Professoren sehen alle eingegangenen Anfragen, können annehmen oder ablehnen und ihren Status verwalten
+
+**Registrierung & Login:** Studierende und Professoren registrieren sich mit ihrer HWR-E-Mail. Die Plattform erkennt automatisch die Rolle und zeigt nur relevante Inhalte an.
+
+**Professor-Feed:** durchsuchbare Übersicht aller Professoren die aktiv Betreuungsplätze anbieten, filterbar nach Fachbereich und Themenfeld.--> Kein Überblick wer Betreuungen anbietet.
+
+**Profil-Detailseite:** jeder Professor hat eine Profilseite mit Themenfeldern, Anforderungen, aktuell verfügbaren Plätzen und Bewertungen anderer Studierender. 
+
+**Anfrage-Flow:** — Studis stellen eine strukturierte Anfrage mit Thema, Typ, Zeitraum und Kurzbeschreibung direkt über die Plattform
+
+**Betreuer-Dashboard:** Professoren sehen alle eingegangenen Anfragen übersichtlich und können annehmen oder ablehnen und ihren Status verwalten  
+
 Other important mechanics:
-- Kein Anreiz für Professoren ihr Angebot einzustellen = **Profil erstellen** — einfacher Onboarding-Flow für Professoren, um Betreuungsangebote in wenigen Schritten zu publizieren
+- Kein Anreiz für Professoren ihr Angebot einzustellen = **Profil erstellen:** einfacher Onboarding-Flow für Professoren, um Betreuungsangebote in wenigen Schritten zu publizieren
 - Keine Orientierung welche Betreuer besonders gefragt sind = **Top-Betreuer Rangliste** (JSON-API) — eine API-gestützte Rangliste der meistangeforderten Professoren nach Erfolgsquote und Anfragevolumen
 
 
 ## Target User(s)
 
-- Studis im 5./6. Semester (BA) oder 2./3. Semester (MA) die einen Betreuer suchen
-- Professoren der HWR die Betreuungskapazität transparent machen wollen
+- Studis die aktiv einen Betreuer für ihre Abschlussarbeit(BA/MA) suchen, besonders solche ohne persönliche Kontakte zu Professoren.
+- Professoren der HWR die ihr Betreuungsangebot transparent kommunizieren und eingehende Anfragen strukturiert verwalten möchten.
 
 ## Happy Path
 
