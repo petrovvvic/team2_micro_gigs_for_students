@@ -25,17 +25,17 @@ nav_order: 1
 
 ### Target grade
 
-[State your target grade for this module. This is meant as a signal to your fellow team members.]
+Meine Zielnote für dieses Modul ist 1,0.
 
 ### Personal goals
 
-[Spell out your personal goals regarding this Module, to create transparency among the team members.]
+Ich möchte verstehen wie eine Web-Applikation von der Idee bis zur Umsetzung entsteht. Konkret will ich Python, Flask, SQLite und Jinja2 praktisch anwenden und lernen wie man ein Nutzerproblem analysiert und daraus eine sinnvolle App-Lösung entwickelt.
 
 ---
 
-## Eidesstattliche Erklärung
+## Eidesstattliche Erklärung: 18.05.2026
 
-**[Jane Dane, Matrikelnr.: 1234567]**
+**[Aya Madarati, Matrikelnr.: 77204158016]**
 
 Ich erkläre an Eides statt:
 
