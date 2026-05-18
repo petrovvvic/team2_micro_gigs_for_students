@@ -34,13 +34,13 @@ Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Theme
 **Betreuer-Dashboard:** Professoren sehen alle eingegangenen Anfragen übersichtlich und können annehmen oder ablehnen und ihren Status verwalten  
 
 Other important mechanics:
-- Kein Anreiz für Professoren ihr Angebot einzustellen = **Profil erstellen:** einfacher Onboarding-Flow für Professoren, um Betreuungsangebote in wenigen Schritten zu publizieren
+- Kein Anreiz für Professoren ihr Angebot einzustellen = ***Profil erstellen:*** einfacher Onboarding-Flow für Professoren, um Betreuungsangebote in wenigen Schritten zu publizieren
 - Keine Orientierung welche Betreuer besonders gefragt sind = **Top-Betreuer Rangliste** (JSON-API) — eine API-gestützte Rangliste der meistangeforderten Professoren nach Erfolgsquote und Anfragevolumen
 
 
 ## Target User(s)
 
-- Studis die aktiv einen Betreuer für ihre Abschlussarbeit(BA/MA) suchen, besonders solche ohne persönliche Kontakte zu Professoren.
+- Studis die aktiv einen Betreuer für ihre Abschlussarbeit (BA/MA) suchen, besonders solche ohne persönliche Kontakte zu Professoren.
 - Professoren der HWR die ihr Betreuungsangebot transparent kommunizieren und eingehende Anfragen strukturiert verwalten möchten.
 
 ## Happy Path
@@ -49,10 +49,11 @@ Other important mechanics:
 
 **Entry Point:** Studi öffnet ThesisMatch
 
-1. **Professor-Feed** — Studi sieht alle verfügbaren Betreuer, filtert nach Fachbereich
-2. **Profil-Detailseite** — Studi klickt auf einen Professor, liest Forschungsinteressen und Anforderungen
-3. **Anfrage-Flow** — Studi füllt strukturierte Anfrage aus (Thema, Zeitplan, Kurzbeschreibung) und sendet ab
-4. **Bestätigung** — Studi sieht dass die Anfrage eingegangen ist
+1. **Registrierung:** Studi gibt Name, HWR-E-Mail und Studiengang an
+2. **Professor-Feed:** Studi sieht alle verfügbaren Betreuer, filtert nach Fachbereich
+3. **Profil-Detailseite:** Studi klickt auf einen Professorprofil, liest Themenfelder, Anforderungen und Bewertungen
+4. **Anfrage-Flow:** Studi füllt strukturierte Anfrage aus (Thema, Zeitplan, Kurzbeschreibung) und sendet ab
+5. **Bestätigung:** Studi sieht dass die Anfrage eingegangen ist
 
 **End State:** Anfrage liegt beim Professor vor ✓
 
@@ -62,9 +63,11 @@ Other important mechanics:
 
 **Entry Point:** Professor öffnet ThesisMatch
 
-1. **Profil erstellen** — Professor legt Betreuungsangebot an (einmalig)
-2. **Betreuer-Dashboard** — Professor sieht eingegangene Anfragen
-3. **Anfrage annehmen** — Professor akzeptiert eine Anfrage
+1. **Registrierung:** Professor gibt Name, HWR-E-Mail und Fachbereich an
+2. ***Profil erstellen:*** Professor legt Betreuungsangebot an 
+3. **Betreuer-Dashboard:** Professor sieht eingegangene Anfragen
+4. **Anfrage annehmen:** Professor akzeptiert eine Anfrage
+
 
 ---
 
