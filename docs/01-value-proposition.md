@@ -80,6 +80,9 @@ Betreuungsplätze anbieten. Filterbar nach Fachbereich.
 Jede Karte zeigt Name, Fachbereich, freie Plätze und Bewertung.
 
 ![Screen 1 - Professor-Feed](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201412.png)
+
+---
+
 ## Screen 2 — Profil-Detailseite
 
 Jeder Professor hat eine eigene Seite mit Themenfeldern, 
@@ -87,6 +90,7 @@ Anforderungen, verfügbaren Plätzen und Bewertungen.
 Direkte Möglichkeit eine Anfrage zu stellen.
 
 ![Screen 2 - Profil-Detailseite](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201428.png)
+
 ---
 
 ## Screen 3 — Anfrage-Flow
