@@ -15,7 +15,7 @@ nav_order: 1
 
 ## The Problem
 
-An der HWR gibt es keinen zentralen Weg für Studierende, einen passenden Betreuer für ihre Abschlussarbeit zu finden. Welcher Professor welche Themen betreut, wie seine Anforderungen aussehen und ob überhaupt noch Betreuungsplätze frei sind, all das ist nicht öffentlich zugänglich. Studierende sind gezwungen, Professoren einzeln per E-Mail zu kontaktieren, ohne zu wissen ob das Thema passt oder ob Kapazität vorhanden ist. Das führt zu langen Wartezeiten, mehrfachen Absagen und im schlimmsten Fall zu einer Betreuung die thematisch nicht optimal ist.
+An der HWR gibt es keinen zentralen Weg für Studierende, einen passenden Betreuer für ihre Abschlussarbeit zu finden. Welche Professor/in welche Themen betreut, wie seine Anforderungen aussehen und ob überhaupt noch Betreuungsplätze frei sind, all das ist nicht öffentlich zugänglich. Studierende sind gezwungen, Professoren einzeln per E-Mail zu kontaktieren, ohne zu wissen ob das Thema passt oder ob Kapazität vorhanden ist. Das führt zu langen Wartezeiten, mehrfachen Absagen und im schlimmsten Fall zu einer Betreuung die thematisch nicht optimal ist.
 
 Professorinnen und Professoren stehen vor dem umgekehrten Problem: Betreuungsanfragen kommen ungefiltert per E-Mail, ohne einheitliche Struktur und ohne Vorabinformationen zum geplanten Thema. Es gibt keinen Weg, das eigene Betreuungsangebot sichtbar zu machen oder eingehende Anfragen übersichtlich zu verwalten.
 
@@ -28,7 +28,7 @@ Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Theme
 
 **Professor/in-Feed:** durchsuchbare Übersicht aller Professoren die aktiv Betreuungsplätze anbieten, filterbar nach Fachbereich und Themenfeld.--> Kein Überblick wer Betreuungen anbietet.
 
-**Profil-Detailseite:** jeder Professor hat eine Profilseite mit Themenfeldern, Anforderungen, aktuell verfügbaren Plätzen und Bewertungen anderer Studierender. 
+**Profil-Detailseite:** jeder Professor/in hat eine Profilseite mit Themenfeldern, Anforderungen, aktuell verfügbaren Plätzen und Bewertungen anderer Studierender. 
 
 **Anfrage-Flow:** Studis stellen eine strukturierte Anfrage mit Thema, Typ, Zeitraum und Kurzbeschreibung direkt über die Plattform
 
