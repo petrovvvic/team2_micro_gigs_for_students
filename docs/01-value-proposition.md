@@ -29,13 +29,17 @@ Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Theme
 
 **Profil-Detailseite:** jeder Professor hat eine Profilseite mit Themenfeldern, Anforderungen, aktuell verfügbaren Plätzen und Bewertungen anderer Studierender. 
 
-**Anfrage-Flow:** — Studis stellen eine strukturierte Anfrage mit Thema, Typ, Zeitraum und Kurzbeschreibung direkt über die Plattform
+**Anfrage-Flow:** Studis stellen eine strukturierte Anfrage mit Thema, Typ, Zeitraum und Kurzbeschreibung direkt über die Plattform
+
+**Meine Anfragen:** Studierende sehen alle gesendeten Anfragen 
+  mit aktuellem Status
 
 **Betreuer-Dashboard:** Professoren sehen alle eingegangenen Anfragen übersichtlich und können annehmen oder ablehnen und ihren Status verwalten  
 
-Other important mechanics:
-- Kein Anreiz für Professoren ihr Angebot einzustellen = ***Profil erstellen:*** einfacher Onboarding-Flow für Professoren, um Betreuungsangebote in wenigen Schritten zu publizieren
-- Keine Orientierung welche Betreuer besonders gefragt sind = **Top-Betreuer Rangliste** (JSON-API) — eine API-gestützte Rangliste der meistangeforderten Professoren nach Erfolgsquote und Anfragevolumen
+**Profil:** alle Nutzer verwalten ihr Profil; Professoren pflegen zusätzlich Themenfelder, Anforderungen und Kapazitäten
+
+**Top-Betreuer Rangliste:** API-gestützte Rangliste der meistgefragten Professoren nach Anfragevolumen und Bewertung
+
 
 
 ## Target User(s)
