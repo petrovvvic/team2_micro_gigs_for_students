@@ -60,7 +60,7 @@ Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Theme
    
 **End State:** Anfrage liegt beim Professor vor ✓
 
----
+
 
 ### Professor nimmt Anfrage an
 
@@ -70,7 +70,7 @@ Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Theme
 4. **Anfrage annehmen:** Professor akzeptiert eine Anfrage
 
 
----
+
 
 ## Target Scope
 
@@ -129,7 +129,7 @@ eine Bestätigung.
 
 ![Screen 3 - Anfrage-Flow](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201446.png)
 
----
+
 
 ## Screen 5 — Meine Anfragen
 
@@ -143,7 +143,7 @@ Professorinnen und Professoren sehen alle eingegangenen Anfragen mit Statistik. 
 
 ![Screen 6 - Betreuer-Dashboard](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-19%20095259.png)
 
----
+
 
 ## Screen 7 — Profil
 
@@ -151,7 +151,7 @@ Alle Nutzer sehen ihr Profil. Professorinnen und Professoren können zusätzlich
 
 ![Screen 7](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-19%20095348.png)
 
----
+
 
 ## Screen 8 — Top-Betreuer Rangliste
 
