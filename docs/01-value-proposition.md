@@ -15,8 +15,9 @@ nav_order: 1
 
 ## The Problem
 
-An der HWR gibt es keinen zentralen Weg für Studierende, einen passenden Betreuer für ihre Abschlussarbeit zu finden. Welcher Professor welche Themen betreut, wie seine Anforderungen aussehen und ob überhaupt noch Betreuungsplätze frei sind — all das ist nicht öffentlich zugänglich. Studierende sind gezwungen, Professoren einzeln per E-Mail zu kontaktieren, ohne zu wissen ob das Thema passt oder ob Kapazität vorhanden ist. Das führt zu langen Wartezeiten, mehrfachen Absagen und im schlimmsten Fall zu einer Betreuung die thematisch nicht optimal ist.
-Professoren stehen vor dem umgekehrten Problem: Betreuungsanfragen kommen ungefiltert per E-Mail, ohne einheitliche Struktur und ohne Vorabinformationen zum geplanten Thema. Es gibt keinen Weg, das eigene Betreuungsangebot sichtbar zu machen oder eingehende Anfragen übersichtlich zu verwalten.
+An der HWR gibt es keinen zentralen Weg für Studierende, einen passenden Betreuer für ihre Abschlussarbeit zu finden. Welcher Professor welche Themen betreut, wie seine Anforderungen aussehen und ob überhaupt noch Betreuungsplätze frei sind, all das ist nicht öffentlich zugänglich. Studierende sind gezwungen, Professoren einzeln per E-Mail zu kontaktieren, ohne zu wissen ob das Thema passt oder ob Kapazität vorhanden ist. Das führt zu langen Wartezeiten, mehrfachen Absagen und im schlimmsten Fall zu einer Betreuung die thematisch nicht optimal ist.
+
+Professorinnen und Professoren stehen vor dem umgekehrten Problem: Betreuungsanfragen kommen ungefiltert per E-Mail, ohne einheitliche Struktur und ohne Vorabinformationen zum geplanten Thema. Es gibt keinen Weg, das eigene Betreuungsangebot sichtbar zu machen oder eingehende Anfragen übersichtlich zu verwalten.
 
 
 ## Our Solution
@@ -25,7 +26,7 @@ Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Theme
 
 **Registrierung & Login:** Studierende und Professoren registrieren sich mit ihrer HWR-E-Mail. Die Plattform erkennt automatisch die Rolle und zeigt nur relevante Inhalte an.
 
-**Professor-Feed:** durchsuchbare Übersicht aller Professoren die aktiv Betreuungsplätze anbieten, filterbar nach Fachbereich und Themenfeld.--> Kein Überblick wer Betreuungen anbietet.
+**Professor/in-Feed:** durchsuchbare Übersicht aller Professoren die aktiv Betreuungsplätze anbieten, filterbar nach Fachbereich und Themenfeld.--> Kein Überblick wer Betreuungen anbietet.
 
 **Profil-Detailseite:** jeder Professor hat eine Profilseite mit Themenfeldern, Anforderungen, aktuell verfügbaren Plätzen und Bewertungen anderer Studierender. 
 
@@ -45,7 +46,7 @@ Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Theme
 ## Target User(s)
 
 - Studis die aktiv einen Betreuer für ihre Abschlussarbeit (BA/MA) suchen, besonders solche ohne persönliche Kontakte zu Professoren.
-- Professoren der HWR die ihr Betreuungsangebot transparent kommunizieren und eingehende Anfragen strukturiert verwalten möchten.
+- Professorinen und Professoren der HWR die ihr Betreuungsangebot transparent kommunizieren und eingehende Anfragen strukturiert verwalten möchten.
 
 ## Happy Path
 
@@ -67,7 +68,7 @@ Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Theme
 
 **Entry Point:** Professor öffnet ThesisMatch
 
-1. **Registrierung** — Professor gibt Name, HWR-E-Mail, Passwort ein und wählt Rolle "Professor/in"
+1. **Registrierung** — Professor/in gibt Name, HWR-E-Mail, Passwort ein und wählt Rolle "Professor/in"
 2. **Profil** — Professor trägt Themenfelder, Anforderungen und Kapazitäten ein
 3. **Betreuer-Dashboard:** Professor sieht eingegangene Anfragen
 4. **Anfrage annehmen:** Professor akzeptiert eine Anfrage
@@ -102,7 +103,7 @@ Jede Karte zeigt Name, Fachbereich, freie Plätze und Bewertung.
 
 ## Screen 2 — Profil-Detailseite
 
-Jeder Professor hat eine eigene Seite mit Themenfeldern, 
+Jeder Professor/in hat eine eigene Seite mit Themenfeldern, 
 Anforderungen, verfügbaren Plätzen und Bewertungen. 
 Direkte Möglichkeit eine Anfrage zu stellen.
 
@@ -141,7 +142,6 @@ Anforderungen, Plätze und Zeitraum in wenigen Schritten eintragen.
 ## Screen 6 — Top-Betreuer Rangliste
 
 API-gestützte Rangliste der meistgefragten Professoren 
-nach Anfragevolumen und Bewertung. Daten kommen live 
-über GET /api/betreuer/top.
+nach Anfragevolumen und Bewertung. 
 
 ![Screen 6 - Rangliste](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201545.png)
