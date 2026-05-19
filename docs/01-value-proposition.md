@@ -52,13 +52,11 @@ Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Theme
 
 ### Studi sucht einen Betreuer
 
-**Entry Point:** Studi öffnet ThesisMatch
-
-1. **Registrierung** — Studi gibt Name, HWR-E-Mail, Passwort ein und wählt Rolle "Studierende/r"
+1. **Registrierung:** Studi gibt Name, HWR-E-Mail, Passwort ein und wählt Rolle "Studierende/r"
 2. **Professor-Feed:** Studi sieht alle verfügbaren Betreuer, filtert nach Fachbereich
 3. **Profil-Detailseite:** Studi klickt auf einen Professorprofil, liest Themenfelder, Anforderungen und Bewertungen
 4. **Anfrage-Flow:** Studi füllt strukturierte Anfrage aus (Thema, Zeitplan, Kurzbeschreibung) und sendet ab
-5. **Meine Anfragen** — Studi verfolgt den Status seiner Anfrage
+5. **Meine Anfragen:** Studi verfolgt den Status seiner Anfrage
    
 **End State:** Anfrage liegt beim Professor vor ✓
 
@@ -66,10 +64,8 @@ Eine Plattform wo Professoren der HWR aktiv Betreuungsangebote einstellen (Theme
 
 ### Professor nimmt Anfrage an
 
-**Entry Point:** Professor öffnet ThesisMatch
-
-1. **Registrierung** — Professor/in gibt Name, HWR-E-Mail, Passwort ein und wählt Rolle "Professor/in"
-2. **Profil** — Professor trägt Themenfelder, Anforderungen und Kapazitäten ein
+1. **Registrierung:** Professor/in gibt Name, HWR-E-Mail, Passwort ein und wählt Rolle "Professor/in"
+2. **Profil:** Professor trägt Themenfelder, Anforderungen und Kapazitäten ein
 3. **Betreuer-Dashboard:** Professor sieht eingegangene Anfragen
 4. **Anfrage annehmen:** Professor akzeptiert eine Anfrage
 
