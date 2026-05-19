@@ -7,9 +7,16 @@ nav_order: 3
 
 ---
 ## Screen 1a — Registrieren
+
+Neue Nutzer registrieren sich mit Name, HWR-E-Mail, Passwort und Rollenauswahl.
+
 ![Screen 1a](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-19%20094937.png)
 
+
 ## Screen 1b — Login
+
+Bestehende Nutzer loggen sich mit E-Mail und Passwort ein.
+
 ![Screen 1b](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-19%20095014.png)
 
 
