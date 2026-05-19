@@ -91,27 +91,41 @@ Geplante Kernfunktionen:
 - Profil 
 - Top-Betreuer Rangliste via JSON-API
 
-## Screen 1 — Professor-Feed
 
-Durchsuchbare Übersicht aller Professoren der HWR die aktiv 
+
+
+## Screen 1a — Registrieren
+
+Neue Nutzer/in registrieren sich mit Name, HWR-E-Mail, Passwort und Rollenauswahl.
+
+![Screen 1a](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-19%20094937.png)
+
+
+## Screen 1b — Login
+
+Bestehende Nutzer/in loggen sich mit E-Mail und Passwort ein.
+
+![Screen 1b](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-19%20095014.png)
+
+
+## Screen 2 — Professor-Feed
+
+Durchsuchbare Übersicht aller Professorinnen und Professoren der HWR die aktiv 
 Betreuungsplätze anbieten. Filterbar nach Fachbereich. 
 Jede Karte zeigt Name, Fachbereich, freie Plätze und Bewertung.
 
-![Screen 1 - Professor-Feed](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201412.png)
+![Screen 2](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201412.png)
 
----
-
-## Screen 2 — Profil-Detailseite
+## Screen 3 — Profil-Detailseite
 
 Jeder Professor/in hat eine eigene Seite mit Themenfeldern, 
 Anforderungen, verfügbaren Plätzen und Bewertungen. 
 Direkte Möglichkeit eine Anfrage zu stellen.
 
-![Screen 2 - Profil-Detailseite](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201428.png)
+![Screen 3 - Profil-Detailseite](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201428.png)
 
----
 
-## Screen 3 — Anfrage-Flow
+## Screen 4 — Anfrage-Flow
 
 Studierende füllen ein strukturiertes Formular aus mit Thema, 
 Typ, Zeitraum und Kurzbeschreibung. Nach Absenden erscheint 
@@ -121,27 +135,31 @@ eine Bestätigung.
 
 ---
 
-## Screen 4 — Betreuer-Dashboard
+## Screen 5 — Meine Anfragen
 
-Professoren sehen alle eingegangenen Anfragen mit Statistik. 
-Jede Anfrage kann direkt angenommen oder abgelehnt werden.
+Studierende sehen alle ihre gesendeten Anfragen mit aktuellem Status (ausstehend oder angenommen).
 
-![Screen 4 - Betreuer-Dashboard](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201507.png)
+![Screen 4](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-19%20095225.png)
 
----
+## Screen 6 — Betreuer-Dashboard
 
-## Screen 5 — Profil erstellen
+Professorinnen und Professoren sehen alle eingegangenen Anfragen mit Statistik. Jede Anfrage kann direkt angenommen oder abgelehnt werden.
 
-Einfacher Onboarding-Flow für Professoren. Themenfelder, 
-Anforderungen, Plätze und Zeitraum in wenigen Schritten eintragen.
-
-![Screen 5 - Profil erstellen](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201527.png)
+![Screen 6 - Betreuer-Dashboard](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-19%20095259.png)
 
 ---
 
-## Screen 6 — Top-Betreuer Rangliste
+## Screen 7 — Profil
 
-API-gestützte Rangliste der meistgefragten Professoren 
-nach Anfragevolumen und Bewertung. 
+Alle Nutzer sehen ihr Profil. Professorinnen und Professoren können zusätzlich Themenfelder, Anforderungen und Kapazitäten verwalten und jederzeit aktualisieren.
+
+![Screen 7](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-19%20095348.png)
+
+---
+
+## Screen 8 — Top-Betreuer Rangliste
+
+API-gestützte Rangliste der meistgefragten Professorinnen und Professoren nach Anfragevolumen und Bewertung. 
 
 ![Screen 6 - Rangliste](https://raw.githubusercontent.com/petrovvvic/team2_thesis_match/main/docs/assets/images/Screenshot%202026-05-17%20201545.png)
+
